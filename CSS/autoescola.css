@@ -1,0 +1,139 @@
+/*
+https://www.toptal.com/developers/cssminifier
+https://pagespeed.web.dev/analysis/https-etecmatao-com-br/kraaba3ppj?form_factor=mobile
+https://tinypng.com/
+Sprite
+*/
+.container-fluid {
+padding-top: 15px;
+padding-bottom: 15px;
+font-size:larger;
+background-color: #ffde59;
+} 
+
+.btn-outline-success{
+    width: 75px;
+    height: 4   0px;
+   
+}
+
+.navbar-brand{
+    font-size: 0%;
+}
+
+#btn-outline-success{
+    background-color: aqua;
+    color: aqua;
+}
+
+/* Reset de estilos */
+ 
+  .cta-button {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  main {
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+
+  footer {
+    position: fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+    background-color: #ffde59;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+
+  .botao2{
+    display: flex;
+    list-style-type: none;
+  }
+  
+  .botao1{
+    display: flex;
+    list-style-type: none;
+    margin:10px;
+  }
+  
+  h1{
+    left: 5%;
+    font-style:oblique;
+  }
+
+  .quemSomos  {
+    padding-top: 8%;
+    color: #ffde59;
+  }
+
+  .titulo {
+    font-style: italic;
+    
+  }
+
+  #banner {
+    padding-top: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: left;
+  }
+
+  #texto {
+    text-align:justify;
+    padding-top: 2%;
+    font-size: x-large;
+  }
+
+  .card {
+    margin: 4% auto;
+    text-decoration: solid;
+    height: 240%;
+    font-size: larger;
+    background-color: #fff;
+  }
+
+  #imagemQS {
+    background-image: url(../IMG/carros.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 150px;
+  }
+/*
+@media screen and (min-width: 400px) {
+  #imagemQS {
+    background-image: url(../IMG/carrosdeposito400px.jpg);
+    background-color: lightgreen!important;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  #imagemQS {
+    background-image: url(../IMG/carrosdeposito800px.jpg);
+    background-color: lavender!important;
+  }
+}*/
+footer a {
+  text-decoration: none;
+  color: #000;
+}
+footer a:hover {
+  color:#fff
+}
+footer i {
+  margin:0 3px 0 10px;
+}
+footer span {
+  margin: 3px ;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+  color: #000;
+}
+ 
